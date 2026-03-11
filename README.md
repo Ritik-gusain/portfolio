@@ -10,7 +10,7 @@
 
 **Personal Portfolio Website featuring 3D animations, interactive UI, and real-time visitor tracking**
 
-[🌐 Live Demo]([https://portfolio-ritik-gusain.vercel.app](https://ritikg-portfolio.vercel.app/)) • [📧 Contact Me](mailto:your-email@example.com) • [💼 LinkedIn](https://linkedin.com/in/your-profile)
+[🌐 Live Demo]([https://portfolio-ritik-gusain.vercel.app](https://ritikg-portfolio.vercel.app/)) • [📧 Contact Me](mailto:newmining2121@gmai.com) • [💼 LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ritik-gusain-7640a9334/))
 
 </div>
 
