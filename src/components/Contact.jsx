@@ -165,7 +165,7 @@ export default function Contact() {
                     type="text"
                     name="name"
                     required
-                    className="w-full bg-gear5-dark/50 border border-white/10 rounded-xl px-4 py-3 text-white placeholder-gray-500 focus:outline-none focus:border-cyan-500 transition-colors"
+                    className="w-full bg-black/50 border border-white/10 rounded-xl px-4 py-3 text-white placeholder-gray-500 focus:outline-none focus:border-cyan-500 transition-colors"
                     placeholder="Your name"
                   />
                 </div>
@@ -175,7 +175,7 @@ export default function Contact() {
                     type="email"
                     name="email"
                     required
-                    className="w-full bg-gear5-dark/50 border border-white/10 rounded-xl px-4 py-3 text-white placeholder-gray-500 focus:outline-none focus:border-cyan-500 transition-colors"
+                    className="w-full bg-black/50 border border-white/10 rounded-xl px-4 py-3 text-white placeholder-gray-500 focus:outline-none focus:border-cyan-500 transition-colors"
                     placeholder="your@email.com"
                   />
                 </div>
@@ -187,7 +187,7 @@ export default function Contact() {
                   type="text"
                   name="subject"
                   required
-                  className="w-full bg-gear5-dark/50 border border-white/10 rounded-xl px-4 py-3 text-white placeholder-gray-500 focus:outline-none focus:border-cyan-500 transition-colors"
+                  className="w-full bg-black/50 border border-white/10 rounded-xl px-4 py-3 text-white placeholder-gray-500 focus:outline-none focus:border-cyan-500 transition-colors"
                   placeholder="Project inquiry / Job opportunity"
                 />
               </div>
@@ -198,7 +198,7 @@ export default function Contact() {
                   name="message"
                   rows="5"
                   required
-                  className="w-full bg-gear5-dark/50 border border-white/10 rounded-xl px-4 py-3 text-white placeholder-gray-500 focus:outline-none focus:border-cyan-500 transition-colors resize-none"
+                  className="w-full bg-black/50 border border-white/10 rounded-xl px-4 py-3 text-white placeholder-gray-500 focus:outline-none focus:border-cyan-500 transition-colors resize-none"
                   placeholder="Tell me about your project or opportunity..."
                 />
               </div>
