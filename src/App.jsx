@@ -1,7 +1,9 @@
-// src/App.jsx (Updated with all components)
+// src/App.jsx
 import { useEffect } from 'react'
+import { useSmoothScroll } from './hooks/useSmoothScroll'
 import { useVisitorTracking } from './hooks/useVisitorTracking'
 import { useScrollDepth } from './hooks/useScrollDepth'
+import { ScrollAura } from './components/Gear5ScrollEffects'
 import Navigation from './components/Navigation'
 import Hero3D from './components/Hero3D'
 import About from './components/About'
@@ -15,22 +17,21 @@ import ScrollProgress from './components/ScrollProgress'
 import VisitorTracker from './components/VisitorTracker'
 
 function App() {
+  useSmoothScroll() // Add smooth scroll
   useVisitorTracking()
   const scrollDepth = useScrollDepth()
 
   useEffect(() => {
-    // Log scroll depth for analytics (optional)
     console.log('Max scroll depth:', scrollDepth + '%')
   }, [scrollDepth])
 
   return (
     <div className="relative min-h-screen bg-gear5-dark overflow-x-hidden">
-      {/* Background Elements */}
+      <ScrollAura /> {/* Add scroll aura effect */}
       <div className="fixed inset-0 gear5-bg opacity-20" />
       <Gear5Particles />
       <div className="noise-overlay" />
       
-      {/* Tracking & UI */}
       <VisitorTracker />
       <ScrollProgress />
       <Navigation />
