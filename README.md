@@ -1,5 +1,4 @@
 # 🚀 Ritik Gusain - Portfolio (Gear 5 Mode)
-
 <div align="center">
 
 ![Portfolio Banner](https://img.shields.io/badge/Portfolio-Gear%205%20Mode-00d9ff?style=for-the-badge&logo=react&logoColor=white)
