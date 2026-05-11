@@ -12,7 +12,6 @@
 [🌐 Live Demo](https://ritikg-portfolio.vercel.app/) • [📧 Contact Me](mailto:newmining2121@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/ritik-gusain-7640a9334/)
 
 </div>
-
 ---
 
 ## ✨ Features
