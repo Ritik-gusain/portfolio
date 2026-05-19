@@ -28,7 +28,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
 ### Frontend
 - **React 18.2** - UI library
 - **Vite 5.2** - Build tool and dev server
