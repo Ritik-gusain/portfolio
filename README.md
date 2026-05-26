@@ -14,7 +14,6 @@
 ---
 
 ## ✨ Features
-
 - 🎨 **3D Interactive Hero Section** - Three.js powered floating particles and animations
 - 🌊 **Smooth Animations** - Framer Motion for fluid page transitions
 - 💎 **Glassmorphism Design** - Modern UI with glass effects and gradients
